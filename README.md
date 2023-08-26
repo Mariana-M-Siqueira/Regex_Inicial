@@ -1,7 +1,7 @@
 # Regex_Inicial
 **Objetivo:** Aprender a criar padrões de caracteres com Regex
 
-Por meio de uma atividade de treino em **Javascript** na meu curso "Informática para Internet" na ETEC PG, pude descobrir essa maneira de criar sequências e padrões de caracteres para verificação e validação de entrada de dados.
+Por meio de uma atividade de treino em **Javascript** na meu curso "Informática para Internet" na ETEC PG, pude descobrir essa maneira de criar sequências e padrões de caracteres para verificação e validação de entrada de dados de formulários.
 <br>
 
 **Competências Aprimoradas:**
